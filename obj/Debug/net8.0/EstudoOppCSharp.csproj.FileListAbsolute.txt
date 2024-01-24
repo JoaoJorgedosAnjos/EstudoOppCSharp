@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/bin/Debug/net8.0/EstudoOppCSharp
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/bin/Debug/net8.0/EstudoOppCSharp.deps.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/bin/Debug/net8.0/EstudoOppCSharp.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/bin/Debug/net8.0/EstudoOppCSharp.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/bin/Debug/net8.0/EstudoOppCSharp.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/EstudoOppCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/EstudoOppCSharp.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/EstudoOppCSharp.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/EstudoOppCSharp.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/EstudoOppCSharp.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/refint/EstudoOppCSharp.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/EstudoOppCSharp.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/EstudoOppCSharp.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/EstudoOppCSharp/obj/Debug/net8.0/ref/EstudoOppCSharp.dll
